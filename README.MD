@@ -15,3 +15,7 @@ I created the `enceladus/transform.sql` script to pull the Enceladus mission pla
 - created an `enceladus` schema and a `plans` table
 - set `start_time_utc` to a `timestamp` and renamed it `start`
 - set `title` to `not null` and only pulled in the plan data with non null titles
+
+The transform stuff worked but it turned out that the dates that are in the master_plan CSV don't seem to align with what's been punlished on the NASA website. The master_plan CSV is from JPL, the flyby dates are from NASA so... I think I'm going to trust NASA.
+
+To that end, I created a `flybys.sql` file with hard coded dates and checked 3 times for accuracy.
