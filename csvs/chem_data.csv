@@ -1,0 +1,27 @@
+"name","formula","molecular_weight","peak"
+"Molecular Hydrogen","H2",2,2
+"Helium","He",4,4
+"Methane","CH4",16,16
+"Methane (isotope)","CH4(ISO)",17,17
+"Water","H2O",18,18
+"Neon","Neo",22,20
+"Acetylene","C2H2",26,26
+"Hydrogen cyanide","HCN",27,27
+"Ethane","C2H6",30,28
+"Carbon Monoxide","CO",28,28
+"Ethylene","C2H4",28,28
+"Molecular Nitrogen","N2",28,28
+"Propane","C3H8",44,29
+"Carbon Monoxide","CO(iso)",28,29
+"Molecular Nitrogen (isotope)","N2(ISO)",28,29
+"Molecular Oxygen","O2",32,32
+"Argon","Ar(iso)",36,36
+"Argon","Ar",40,40
+"Propyne","C3H4",40,40
+"Carbon Dioxide","CO2",44,44
+"Propane","C3H8",44,44
+"Butadiyne","C4H2",50,50
+"Propiolonitrile","C3HN",51,51
+"Cyanogen","C2N2",52,52
+"Benzene","C6H6",78,78
+"Krypton","Kr",84,84
